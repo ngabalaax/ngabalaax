@@ -16,7 +16,7 @@ I document my cybersecurity journey, CTF solutions, and security research on my 
 ## 📫 Connect with Me  
 Feel free to reach out for discussions, collaborations, or security research!  
 
-🐦 Twitter: [@ngabalaax](#) *()*  
-💼 LinkedIn: [Nasradin Abdikani](#) *()*  
+🐦 Twitter: [@ngabalaax](https://x.com/ngabalaax) 
+💼 LinkedIn: [Nasradin Abdikani](https://www.linkedin.com/in/ngabalaax/)   
 
 ---
