@@ -1,30 +1,22 @@
-<div align="center">
-    <img src="./img/cover.png" alt="logo" width="100%" height="30%" />
-</div>
+# Hi there, I'm Nasradin Abdikani (Ngabalaax) 👋  
 
-<h1 align="center">Hi 👋, I'm Nasradin Abdikani Nadif</h1>
-<h3 align="center">A  full-stack developer from jigjiga, ethiopia</h3>
+## 🚀 About Me  
+I'm a **Developer** and **Security Engineer** passionate about cybersecurity, ethical hacking, and secure software development. I love exploring security vulnerabilities, participating in CTF challenges, and sharing my findings through write-ups.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngabalaax&label=Profile%20views&color=0e75b6&style=flat" alt="ngabalaax" /> </p>
+## ✍️ Blog & Write-ups  
+I document my cybersecurity journey, CTF solutions, and security research on my blog. Check it out for in-depth write-ups and insights:  
 
-- 🌱 I’m currently learning **MERN STACK**
+🔗 [My Blog](#) *(https://ngabalaax.gitbook.io/ngabalaax)*  
 
-- 💬 Ask me about **reactjs**
+## 🛠️ Tech
+- 🔐 Penetration Testing | Red Teaming  
+- 🏗️ Web & Software Development
+ 
 
-- 📫 How to reach me **nasradinabdikani@gmail.com**
+## 📫 Connect with Me  
+Feel free to reach out for discussions, collaborations, or security research!  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ngabalaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ngabalaax" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ngabalaax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nasradin-abdikani-nadif-42b1bb295/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@ngabalaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@ngabalaax" height="30" width="40" /></a>
-</p>
+🐦 Twitter: [@yourhandle](#) *(https://x.com/ngabalaax)*  
+💼 LinkedIn: [Nasradin Abdikani](#) *(https://www.linkedin.com/in/ngabalaax/)*  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngabalaax&show_icons=true&locale=en&layout=compact" alt="ngabalaax" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngabalaax&show_icons=true&locale=en" alt="ngabalaax" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngabalaax&" alt="ngabalaax" /></p>
+---
